@@ -26,3 +26,5 @@ jobs:
           if git commit -m "generated"; then
             git push
           fi
+
+
